@@ -94,6 +94,7 @@ set(HDRS
     lib/TerminalDisplay.h
     lib/Vt102Emulation.h
 	lib/mman.h
+    lib/unistd.h
 )
 
 set(UI
